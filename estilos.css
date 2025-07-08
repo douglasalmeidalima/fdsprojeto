@@ -1,0 +1,56 @@
+/* 1. Fundo da página com cor suave */
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* 2. Título com cor diferente e centralizado */
+h1 {
+  color: #2e8b57;
+  text-align: center;
+}
+
+/* 3. Parágrafo com fonte maior e justificado */
+p {
+  font-size: 1.2em;
+  text-align: justify;
+}
+
+/* 4. Lista com espaçamento entre itens */
+ul li {
+  margin-bottom: 10px;
+}
+
+/* 5. Imagens com bordas arredondadas e tamanho adequado */
+img {
+  border-radius: 10px;
+  width: 300px;
+  height: auto;
+}
+
+/* 6. Tabela estilizada */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+table, td {
+  border: 1px solid #888;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+/* 7. Link com efeito hover */
+a {
+  color: #0000cc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff4500;
+}
